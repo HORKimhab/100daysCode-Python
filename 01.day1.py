@@ -7,3 +7,10 @@ city = input("Which city did you grow up in?\n")
 pet = input("What is the name of a pet?\n")
 #4 Combine the name of their city and pet and show them 
 print("Your name generator could be " + city + "" + pet)
+
+
+## Pause video and practise code
+## Run python in VScode: python {file_name}
+## python 01.day1.py
+
+## Thank you for watching and practise code
